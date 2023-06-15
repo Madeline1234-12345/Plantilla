@@ -1,0 +1,32 @@
+# Blender 3.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl skateboard_board
+Ns 18.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.693000 0.693000 0.693000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skateboard_diffuse.jpg
+
+newmtl skateboard_metal
+Ns 75.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.720000 0.720000 0.720000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skateboard_diffuse.jpg
+
+newmtl skateboard_wheel_4
+Ns 52.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.693000 0.693000 0.693000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd skateboard_diffuse.jpg

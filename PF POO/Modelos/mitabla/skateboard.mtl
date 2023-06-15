@@ -1,0 +1,83 @@
+# Blender 3.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Bearings1
+Ns 542.231445
+Ka 1.000000 1.000000 1.000000
+Kd 0.029613 0.029613 0.029613
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Bearings2
+Ns 640.000000
+Ka 0.900000 0.900000 0.900000
+Kd 0.647737 0.647737 0.647737
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Deck_Bottom
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Deck_Bottom_Diffuse4K.png
+map_Ns Deck_Bottom_Roughness4K.png
+
+newmtl Deck_Side
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Deck_Side_Diffuse4K.png
+map_Ns Deck_Side_Roughness4K.png
+
+newmtl Grip
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Grip_Diffuse4K.png
+map_Ns Grip_Roughness4K.png
+
+newmtl Trucks
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trucks_Diffuse4K.png
+map_Ns Trucks_Roughness4K.png
+map_refl Trucks_Metallic4K.png
+
+newmtl Wheels
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Wheels_Diffuse4K.png
+
+newmtl bolts
+Ns 490.000000
+Ka 0.800000 0.800000 0.800000
+Kd 0.214183 0.214183 0.214183
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

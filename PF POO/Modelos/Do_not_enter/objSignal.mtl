@@ -1,0 +1,16 @@
+newmtl signal:sign:sign:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd donotenter2.jpg
+bump  -bm -0.05 donotenter2.jpg
+Ni 1.00
+newmtl signal:sign:sign:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WOOD0sss.jpg
+bump  -bm 2 WOOD0sss.jpg
+Ni 1.00
